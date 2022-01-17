@@ -1,3 +1,4 @@
+www.zacharysteen.com
 - 👋 Hi, I’m @zsteen13
 - 👀 I’m interested in machine learning, stocks, travel, cooking...
 - 🌱 I’m currently learning lots and lots of computer science as a grad student at UT Austin!
