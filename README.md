@@ -1,6 +1,7 @@
 www.zacharysteen.com
 - 👋 Hi, I’m @zsteen13
 - 👀 I’m interested in machine learning, stocks, travel, cooking...
+- 💼 I'm a software engineer at USAA, working mostly with React frontend and Spring Boot backend.
 - 🌱 I’m currently learning lots and lots of computer science as a grad student at UT Austin!
 - 📫 How to reach me ... by email! zsteen13@gmail.com
 
